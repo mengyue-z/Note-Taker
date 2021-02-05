@@ -18,7 +18,7 @@ This is a note-taking application powered by Express.js that users can write and
 
 ## Links
 
-* App deployed link on Heroku: 
+* App deployed link on Heroku: https://vast-basin-31119.herokuapp.com/
 
 * The URLs of the GitHub repositories: https://github.com/mengyue-z/Note-Taker
 
