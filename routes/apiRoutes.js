@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-
+const uniqid = require('uniqid');
 // ROUTING
 
 module.exports = (app) => {
@@ -12,9 +12,9 @@ module.exports = (app) => {
 
   app.post("/api/notes", (req, res) => {
         var newNote = req.body;
-        var noteListLength = notes.length;
+       // var noteListLength = notes.length;
     
-        newNote.id = noteListLength;
+        newNote.id = uniqid();
         notes.push(newNote);
     
         //write to db.json file to add updated notes
