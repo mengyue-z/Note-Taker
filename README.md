@@ -14,7 +14,7 @@ This is a note-taking application powered by Express.js that users can write and
 
 ## Screenshots
 
-![Sample Note Page Screenshot](./public/assets.screenshot.jpg)
+![Sample Note Page Screenshot](./public/assets/screenshot.jpg)
 
 ## Links
 
@@ -24,6 +24,6 @@ This is a note-taking application powered by Express.js that users can write and
 
 ## Acknowledgement
 
-* Inspired by Daniel Luke Tanoeihusada（https://github.com/gidmp/Note-Taker-With-Express）on how to delete notes with unique Ids.
+* Inspired by Daniel Luke Tanoeihusada (https://github.com/gidmp/Note-Taker-With-Express) on how to delete notes with unique Ids.
 
 * Lu Hao (https://github.com/lhaodev)
